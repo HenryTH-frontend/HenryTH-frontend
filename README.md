@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/HenryTH-frontend/HenryTH-frontend/blob/output/snake.svg)
+
 
 <!--título-->
 <div id="user-content-toc">
