@@ -1,3 +1,4 @@
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -23,7 +24,7 @@
 <!-- GithubStats -->
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=HenryTH-frontend&show_icons=true&theme=radical" width="500">
-<img src="https://www.freeiconspng.com/uploads/pikachu-transparent-29.gif" width="200px" flex= "relative" style="padding: 100px">
+  <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" width="277px">
 
 <br>
 <br>
@@ -48,16 +49,26 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 16 years old, currently living in Brazil. I have experience in HTML, CSS, JS and C. I'm too, have been studying Programming Logic and JavaScript since 2021.
+  - 💬 I am 16 years old, currently living in Brazil. I have experience in HTML, CSS, JS, PHP and C. I'm too, have been studying Programming Logic and JavaScript since 2021.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+  </a>
+</div>
 
 
 <br>
@@ -80,15 +91,22 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;" align="center">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
+
+  <br>
+  <br>
+
+<p align="center">
+  <img align="center" src="https://giffiles.alphacoders.com/615/61549.gif" alt="Imagem" higth="850px" width="950px">
+</p>
 
 
 
