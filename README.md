@@ -1,15 +1,13 @@
-
-<!--título-->
+  <!--título-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello, World</h1></summary>
 </div>
 <hr>
-<br> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=957fff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Henry+Thomaz;I'm+16+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
-<br>
-<br>
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=1000&lines=Hello,+World;My+name+is+Henry+Thomaz;I'm+14+years+old;I+am+from+Campinas,+SP;I+study+Web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -18,30 +16,34 @@
 </div>
 <br>
 
-<br>
-<br>
+<div align="center">  
+  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenryTH-frontend&show_icons=true&count_private=true&hide_border=true&title_color=ff79c6&icon_color=f1fa8c&text_color=8be9fd&bg_color=282a36" alt="Henry THomaz Oliveira Campos github stats" />
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryTH-frontend&layout=compact&hide_border=true&title_color=ff79c6&text_color=8be9fd&bg_color=282a36" />
+
+</div>
+<br><br>
+
+[![Henry THomaz Oliveira Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryTH-frontend&bg_color=282a36&color=8be9fd&line=ff79c6&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br><br><br>
 
 <!-- GithubStats -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HenryTH-frontend&show_icons=true&theme=radical" width="500">
-  <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" width="277px">
-
-<br>
-<br>
-<br>
-<br>
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FHenryTH-frontend&s=50&c=50FA7B&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
-<br>
 </div>
-  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HenryTH-frontend&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+    <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" width="310px">
+</p>
 <br>
 <br>
-  <!-- Presentation -->
+<br>
+
+<!-- Presentation -->
 <p>
   Hi 👋, I'm Henry! A passionate Developer Web at from Brazil.
-
-  - 🌱 I’m currently studying Development Web -- Front-End -- at Alura   <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
+  
+  - 🌱 I’m currently studying Development Web -- Front-End -- at Alura <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Development Web, such as Front-End or Back-End.
 </p>
 
@@ -49,10 +51,40 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 16 years old, currently living in Brazil. I have experience in HTML, CSS, JS, PHP and C. I'm too, have been studying Programming Logic and JavaScript since 2021.
+  - 💬 I am 14 years old, currently living in Brazil. I have experience in HTML, CSS, JS, PHP and C. I'm too, have been studying Programming Logic and JavaScript since 2021.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
+
+<br>
+<br>
+
+### Main skills:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### Tools:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
+
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 <!-- Links -->
 <div align="center">
@@ -70,11 +102,11 @@
   </a>
 </div>
 
+<br><br>
+<div align="center">
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FHenryTH-frontend&s=50&c=50FA7B&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<br></div>
 
-<br>
-<br> 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryTH-frontend&bg_color=282a36&color=bd93f9&line=6272a4&point=50fa7b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <hr>
 <!-- GIF -->
 <div>
@@ -83,30 +115,23 @@
 </p>
 </div>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;" align="center">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;" align="center">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
-
-  <br>
-  <br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
   <img align="center" src="https://giffiles.alphacoders.com/615/61549.gif" alt="Imagem" higth="850px" width="950px">
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+
+
+
+
+
+
 
 
 
