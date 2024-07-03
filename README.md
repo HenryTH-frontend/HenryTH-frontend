@@ -1,34 +1,37 @@
-  <!--título-->
+<!--título-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello, World</h1></summary>
 </div>
 <hr>
+    
+<!--Quebra de linha bonita-->  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=957fff&height=120&section=header"/>
 
-    
+<!--Apresentação animada-->  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=1000&lines=Hello,+World;My+name+is+Henry+Thomaz;I'm+14+years+old;I+am+from+Campinas,+SP;I+study+Web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HenryTH-frontend&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-
-</div>
 <br>
 
+<!--tabelas-->
 <div align="center">  
-  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HenryTH-frontend&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+<br>
+
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenryTH-frontend&show_icons=true&count_private=true&hide_border=true&title_color=ff79c6&icon_color=f1fa8c&text_color=8be9fd&bg_color=282a36" alt="Henry THomaz Oliveira Campos github stats" />
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryTH-frontend&layout=compact&hide_border=true&title_color=ff79c6&text_color=8be9fd&bg_color=282a36" />
+<img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryTH-frontend&layout=compact&hide_border=true&title_color=ff79c6&text_color=8be9fd&bg_color=282a36" />
 
 </div>
 <br><br>
 
+<!--Gráfico-->
 [![Henry THomaz Oliveira Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryTH-frontend&bg_color=282a36&color=8be9fd&line=ff79c6&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br><br>
 
-<!-- GithubStats -->
+<!--GithubStats-->
 </div>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HenryTH-frontend&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -38,7 +41,7 @@
 <br>
 <br>
 
-<!-- Presentation -->
+<!--Apresentação-->
 <p>
   Hi 👋, I'm Henry! A passionate Developer Web at from Brazil.
   
@@ -47,7 +50,7 @@
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Development Web, such as Front-End or Back-End.
 </p>
 
-<!-- Dropdown -->
+<!--Dropdown-->
 <details>
   <summary>👨‍💻 More about me</summary>
 
@@ -86,7 +89,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<!-- Links -->
+<!--Links-->
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
@@ -115,16 +118,8 @@
 </p>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
-<p align="center">
-  <img align="center" src="https://giffiles.alphacoders.com/615/61549.gif" alt="Imagem" higth="850px" width="950px">
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<!--Queba de linha do final-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=957fff&height=120&section=footer"/>
 
 
 
