@@ -23,18 +23,18 @@
 </div>
 <!--Apresentação-->
 <p>
-  Hi 👋, I'm Henry! A passionate Developer Web at from Brazil.
+  Hi 👋, I'm Henry! A Developer Web at from Brazil.
   
-  - 🌱 I’m currently studying Development Web -- Front-End -- at Alura <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Development Web -- FullStack -- at RocketSeat<img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
   
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Development Web, such as Front-End or Back-End.
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Development Web, such as FullStack.
 </p>
 
 <!--Dropdown-->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 14 years old, currently living in Brazil. I have experience in HTML, CSS, JS, PHP and C. I'm too, have been studying Programming Logic and JavaScript since 2021.
+  - 💬 I am 15 years old, currently living in Brazil. I have experience in HTML, CSS, JS, C# and .NET. I'm too, have been studying Programming Logic and JavaScript since 2021.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
@@ -75,9 +75,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
