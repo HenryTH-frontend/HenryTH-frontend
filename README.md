@@ -29,13 +29,6 @@
 
 <!--Gráfico-->
 [![Henry THomaz Oliveira Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryTH-frontend&bg_color=282a36&color=8be9fd&line=ff79c6&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br><br><br>
-
-<!--GithubStats-->
-</div>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HenryTH-frontend&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-    <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" width="310px">
 </p>
 <br>
 <br>
