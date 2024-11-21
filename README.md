@@ -9,7 +9,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=957fff&height=120&section=header"/>
 
 <!--Apresentação animada-->  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=1000&lines=Hello,+World;My+name+is+Henry+Thomaz;I'm+15+years+old;I+am+from+Campinas,+SP;I+study+Web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=1000&lines=Hello,+World;My+name+is+Henry+Thomaz;I'm+15+years+old;I+am+from+in+Três+Lagoas,+SP;I+study+Web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
