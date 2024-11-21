@@ -23,17 +23,8 @@
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenryTH-frontend&show_icons=true&count_private=true&hide_border=true&title_color=ff79c6&icon_color=f1fa8c&text_color=8be9fd&bg_color=282a36" alt="Henry THomaz Oliveira Campos github stats" />
 
 <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryTH-frontend&layout=compact&hide_border=true&title_color=ff79c6&text_color=8be9fd&bg_color=282a36" />
-
-</div>
 <br><br>
-
-<!--Gráfico-->
-[![Henry THomaz Oliveira Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryTH-frontend&bg_color=282a36&color=8be9fd&line=ff79c6&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
-<br>
-<br>
-<br>
-
+</div>
 <!--Apresentação-->
 <p>
   Hi 👋, I'm Henry! A passionate Developer Web at from Brazil.
@@ -52,6 +43,13 @@
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
+<br>
+<br>
+
+<!--Gráfico-->
+[![Henry THomaz Oliveira Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryTH-frontend&bg_color=282a36&color=8be9fd&line=ff79c6&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
+<br>
 <br>
 <br>
 
