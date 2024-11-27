@@ -112,12 +112,14 @@
 </p>
 </div>
 
-##
-  <div align="center">
-    
+## 🐍 Snake Animation
+
+<div align="center">
+  
 ![Snake animation](https://github.com/HenryTH-frontend/HenryTH-frontend/blob/output/github-contribution-grid-snake.svg)
-    
+  
 </div>
+
 
 <!--Queba de linha do final-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=957fff&height=120&section=footer"/>
