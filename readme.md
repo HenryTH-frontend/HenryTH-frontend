@@ -30,6 +30,3 @@
     I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
   </details>
 </details>
-
-<br>
-<br>
