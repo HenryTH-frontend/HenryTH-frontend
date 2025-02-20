@@ -18,7 +18,7 @@
 <p>
   Hi 👋, I'm Henry! A Developer Web at from Brazil.
   
-  - 🌱 I’m currently studying Development Web -- FullStack -- at RocketSeat<img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Development Web -- FullStack -- <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
   
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Development Web, such as FullStack.
 </p>
