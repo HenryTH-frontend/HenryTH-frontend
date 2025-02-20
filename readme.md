@@ -1,14 +1,10 @@
-<!--tabelas-->
-<div align="center">  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HenryTH-frontend&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-
-<br>
+<!--Hello World-->
+<h1 align="center">Hello World!</h1>
 
 </div>
 <!--Apresentação-->
 <details>
-      <summary>About me: 👉</summary>
+      <summary align="center">About me: 👉</summary>
 <p>
   Hi 👋, I'm Henry! A Developer Web at from Brazil.
   
@@ -16,6 +12,12 @@
   
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Development Web, such as FullStack.
 </p>
+<!--tabelas-->
+<div align="center">  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HenryTH-frontend&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+<br>
 
 <!--Dropdown-->
   <details>
